@@ -121,19 +121,21 @@ function playmedia(media_file,new_page_ind,media_width,media_height) {
 is an Application Service Provider that is used by an instructor to provide a
 distance learning environment for their students. With TestAcademy.com, an
 instructor can :</font></p>
-<ul>
-  <li>
-    <p class="MsoNormal"><font face="Verdana" size="2"><p>
-    </p>
-    <p>
-    </p>
+        <ul>
+            <li>
+                <p class="MsoNormal">
+                    <font face="Verdana" size="2">
+
     </font><font face="Verdana" size="2">supplement
     their in-classroom lectures with on-line testing and eLearning materials
-    that can be viewed outside of class.</font></li>
-  <li>
-    <p class="MsoNormal"><font face="Verdana" size="2">deploy
-    a complete virtual classroom environment.</font></li>
-</ul>
+    that can be viewed outside of class.</font>
+            </li>
+            <li>
+                <p class="MsoNormal">
+                    <font face="Verdana" size="2">deploy
+    a complete virtual classroom environment.</font>
+            </li>
+        </ul>
     <p><font face="Verdana" size="2">Take a look at our short overview presentation <img src="./images/video_icon.gif" WIDTH="11" HEIGHT="11">&nbsp;<a href="javascript:playmedia('testacademy_overview128k.asf','false',353,265)">128K connection</a>/<a href="javascript:playmedia('testacademy_overview56k.asf','false',194,159)">56K connection</a> to give you a
     better understanding of what TestAcademy.com can do for you.</font><br><br>
 <table border="0" cellpadding="0" cellspacing="2" width="100%" height="30"><tr><td bgcolor="#6699FF" align="center"><font face="Verdana" size="4" color="#FFFFFF"><b>Instructors</b></font></td></tr></table>
